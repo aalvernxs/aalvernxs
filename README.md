@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur!
 
-🎯 Desenvolvedor em formação com foco em **Backend Java**
+🎯 Desenvolvedor em formação com foco em Backend Java e base em desenvolvimento web
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 💻 Tecnologias
 
-### 🔹 Backend (foco)
+### 🔹 Backend (foco principal)
 - Java  
 - SQL  
 
