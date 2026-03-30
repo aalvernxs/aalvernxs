@@ -23,7 +23,7 @@ Estudante de Ciência da Computação na **Universidade Fumec** em busca de opor
 | Projeto | Tecnologias | Link |
 |---|---|---|
 | Portfólio Pessoal | HTML, CSS, JS | [Ver projeto](https://aalvernxs.github.io/portfolio) |
-| Veloce Motors | HTML, CSS, JS | Em breve |
+
 
 ## Contato
 
