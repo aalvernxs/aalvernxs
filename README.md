@@ -9,10 +9,12 @@
 
 ## 🚀 Sobre mim
 
-* [cite_start]🎓 **Ciência da Computação** na Universidade Fumec[cite: 22].
-* [cite_start]💼 Atualmente atuando com **Processamento de Dados** na GCT, lidando com altos volumes de informação e regras de negócio[cite: 14, 15, 20].
-* [cite_start]🧠 Focado em dominar o ecossistema **Java** e arquiteturas robustas de Backend[cite: 12, 25].
-* [cite_start]✍️ Organizo meus estudos e documentações técnicas para garantir aprendizado contínuo[cite: 10, 28].
+* 🎓 Estudante de Ciência da Computação — Universidade Fumec
+* 💼 Atualmente atuando com **Processamento de Dados** na GCT, lidando com altos volumes de informação e regras de negócio.
+* 🧠 Focado em dominar o ecossistema **Java** e arquiteturas robustas de Backend.
+* 🌐 Focado na criação de interfaces dinâmicas com Angular e Node.js, utilizando arquitetura de componentes e consumo de APIs REST. Domínio de HTML, CSS e JavaScript para transformar páginas estáticas em aplicações modulares e responsivas.
+* ✍️ Organizo meus estudos e documentações técnicas para garantir aprendizado contínuo.
+* 📍 Contagem, MG  
 
 ---
 
@@ -39,13 +41,16 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| **AutoPrime** | [cite_start]Plataforma de veículos com **Angular** e **Node.js**[cite: 26]. | 🚧 Em construção |
-| **Java Exercises** | [cite_start]Práticas de **POO** e Algoritmos (Cursos Loiane Groner)[cite: 25, 31, 32]. | ✅ Ativo |
-| **Menu Digital** | [cite_start]Landing page interativa e modular[cite: 26]. | ✅ Finalizado |
+| **AutoPrime** | Plataforma de veículos com **Angular** e **Node.js**. | 🚧 Em construção | https://github.com/aalvernxs/autoprime |
+| **Java Exercises** | Práticas de **POO** e Algoritmos (Cursos Loiane Groner) | 🚧 Em construção |
+| **Menu Digital** | Landing page interativa e modular. | ✅ Finalizado | https://github.com/aalvernxs/cardapio-angular |
+| **Portfólio** | Portfólio profissional feito em HTML, CSS e JS. | ✅ Finalizado | https://github.com/aalvernxs/portfolio |
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rodrigues-alvernaz-4a108a31) [cite: 5]
-[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthuralvernaz1201@outlook.com) [cite: 3]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rodrigues-alvernaz-4a108a31) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthuralvernaz1201@outlook.com) 
+
+
