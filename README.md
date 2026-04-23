@@ -39,8 +39,8 @@
 
 ## 📂 Projetos em Destaque
 
-| Projeto | Descrição | Status |
-|---|---|---|
+| Projeto | Descrição | Status | Link |
+|---|---|---|---|
 | **AutoPrime** | Plataforma de veículos com **Angular** e **Node.js**. | 🚧 Em construção | https://github.com/aalvernxs/autoprime |
 | **Java Exercises** | Práticas de **POO** e Algoritmos (Cursos Loiane Groner) | 🚧 Em construção |
 | **Menu Digital** | Landing page interativa e modular. | ✅ Finalizado | https://github.com/aalvernxs/cardapio-angular |
