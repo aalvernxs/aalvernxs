@@ -18,12 +18,14 @@
 
 ### 🔹 Backend (foco principal)
 - Java  
-- SQL  
+- SQL
+- Node.js
 
 ### 🔹 Frontend (base)
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- Angular
 
 ### 🔹 Ferramentas
 - Git  
