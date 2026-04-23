@@ -10,11 +10,12 @@
 ## 🚀 Sobre mim
 
 * 🎓 Estudante de Ciência da Computação — Universidade Fumec
+* 📍 Contagem, MG  
 * 💼 Atualmente atuando com **Processamento de Dados** na GCT, lidando com altos volumes de informação e regras de negócio.
 * 🧠 Focado em dominar o ecossistema **Java** e arquiteturas robustas de Backend.
 * 🌐 Focado na criação de interfaces dinâmicas com Angular e Node.js, utilizando arquitetura de componentes e consumo de APIs REST. Domínio de HTML, CSS e JavaScript para transformar páginas estáticas em aplicações modulares e responsivas.
 * ✍️ Organizo meus estudos e documentações técnicas para garantir aprendizado contínuo.
-* 📍 Contagem, MG  
+
 
 ---
 
