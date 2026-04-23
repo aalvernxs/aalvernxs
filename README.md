@@ -1,11 +1,7 @@
 <img width="100%" height="281" alt="bleach-aizen-sosuke" src="https://github.com/user-attachments/assets/a1ddeccd-5891-4de7-80ee-0c05d97ba1fb" />
 
-
-# 👋 Olá, eu sou o Arthur Alvernaz!
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aalvernxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvernxs&layout=compact&langs_count=7&theme=tokyonight"/>
+# 👋 Olá, eu sou o Arthur Alvernaz!
 </div>
 
 ---
@@ -19,6 +15,12 @@
 * 🌐 Focado na criação de interfaces dinâmicas com Angular e Node.js, utilizando arquitetura de componentes e consumo de APIs REST. Domínio de HTML, CSS e JavaScript para transformar páginas estáticas em aplicações modulares e responsivas.
 * ✍️ Organizo meus estudos e documentações técnicas para garantir aprendizado contínuo.
 
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aalvernxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvernxs&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
