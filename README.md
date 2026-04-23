@@ -38,7 +38,9 @@
 | Projeto | Tecnologias | Descrição | Link |
 |---|---|---|---|
 | Sistema de Cadastro (em desenvolvimento) | Java | Aplicação em console com cadastro, listagem e validação de usuários | Em breve |
+| AutoPrime | Angular, TypeScript, SQL | Sistema web moderno para gerenciamento e visualização de veículos à venda | https://github.com/aalvernxs/autoprime | Em desenvolvimento |
 | Portfólio Pessoal | HTML, CSS, JS | Site com apresentação profissional e projetos | https://aalvernxs.github.io/portfolio |
+
 
 ---
 
@@ -49,7 +51,8 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Lógica de programação  
 - Programação Orientada a Objetos (POO)  
 - Estruturas de dados  
-- Desenvolvimento backend com Java  
+- Desenvolvimento backend com Java
+- Desenvolvimento Frontend com Angular
 
 ---
 
