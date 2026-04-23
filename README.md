@@ -1,4 +1,4 @@
-<img width="600" height="281" alt="bleach-aizen-sosuke" src="https://github.com/user-attachments/assets/a1ddeccd-5891-4de7-80ee-0c05d97ba1fb" />
+<img width="900" height="281" alt="bleach-aizen-sosuke" src="https://github.com/user-attachments/assets/a1ddeccd-5891-4de7-80ee-0c05d97ba1fb" />
 
 
 # 👋 Olá, eu sou o Arthur Alvernaz!
