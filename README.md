@@ -1,3 +1,4 @@
+<img width="480" height="270" alt="bleach-anime" src="https://github.com/user-attachments/assets/777681c4-7542-4ca3-9e49-f0145d88783e" />
 # 👋 Olá, eu sou o Arthur Alvernaz!
 
 <div align="center">
