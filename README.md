@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🚀 Sobre mim
 
 * 🎓 Estudante de Ciência da Computação — Universidade Fumec
