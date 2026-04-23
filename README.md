@@ -2,7 +2,7 @@
 
 <div align="center">
   
-#👋 Olá, eu sou o Arthur Alvernaz!
+# <h1>👋 Olá, eu sou o Arthur Alvernaz!</h1>
 
 </div>
 
