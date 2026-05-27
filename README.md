@@ -16,8 +16,6 @@
 ---
 
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🖥️ Backend & Database
